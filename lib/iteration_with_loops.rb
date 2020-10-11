@@ -15,7 +15,7 @@ def find_min_in_nested_arrays(src)
       element_count += 1
     end
     array_of_mins << min_temp
-    count += 1
+    array_count += 1
 
   end
   array_of_mins
